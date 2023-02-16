@@ -1,3 +1,0 @@
-hello git
-having fun with git
-lets explore
